@@ -1,1 +1,0 @@
-# EducationQuizApp_frontend
