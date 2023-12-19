@@ -1,25 +1,29 @@
 # Quiz App Project
 
 ## Overview
-The app offers two enrollment options: one for educators and another for students. Educators have the ability to create custom quizzes, while students can attempt these quizzes to assess their knowledge and skills. The quiz results are accessible to students, accompanied by feedback. The primary aim of this app is to enhance the learning process, providing a more engaging, personalized, and efficient tool for educators and learners, facilitating assessment and knowledge acquisition.
+The app offers dual enrollment: one for educators and another for students. Educators have the ability to create custom quizzes, while students can attempt these quizzes to test their knowledge and skills. Students have access to quiz results and feedback for examination. Additionally, educators can create quiz notices with course topics, and students receive notifications for these quizzes.
 
 ## Features
-- **Dual Enrollment:** Educators and students have distinct enrollment pathways.
-- **Quiz Creation:** Educators can design custom quizzes tailored to their needs.
-- **Quiz Attempt:** Students can take quizzes to test their knowledge and skills.
-- **Results and Feedback:** Accessible results and feedback help students analyze their performance.
-- **Enhanced Learning:** Aims to improve the learning process by offering a versatile assessment tool.
+- **Dual Enrollment:** Options for educators and students to enroll separately.
+- **Quiz Creation (Educators):** Ability for educators to craft custom quizzes.
+- **Quiz Attempt (Students):** Students can test their knowledge and skills through quizzes.
+- **Results and Feedback:** Accessible quiz results and feedback for students.
+- **Quiz Notices (Educators):** Educators can create quiz notifications with course topics.
+- **Notifications (Students):** Students receive notifications for upcoming quizzes.
 
 ## Objectives
-- **Engaging Learning:** Enhance engagement through interactive quizzes.
-- **Personalized Learning:** Tailor quizzes to cater to individual learning needs.
-- **Efficient Assessment:** Provide an efficient method for educators to assess students' knowledge.
-- **Knowledge Acquisition:** Facilitate the acquisition of knowledge and skills through interactive quizzes.
+- **Engagement:** Enhance engagement through interactive quizzes and notifications.
+- **Assessment:** Provide an assessment tool for educators and students.
+- **Feedback:** Offer feedback to aid in learning and improvement.
+- **Facilitate Communication:** Enable communication via quiz notices and notifications.
 
 ## How to Use
-1. **Enrollment:** Choose the educator or student enrollment option.
-2. **Quiz Creation (Educators):** Create custom quizzes based on subjects or topics.
-3. **Quiz Attempt (Students):** Attempt quizzes to test knowledge and skills.
+1. **Enrollment:** Choose either educator or student enrollment.
+2. **Quiz Creation (Educators):** Craft custom quizzes based on course material.
+3. **Quiz Attempt (Students):** Engage in quizzes to evaluate knowledge.
 4. **Review Results:** Access quiz results and feedback for self-assessment and improvement.
+5. **Quiz Notices (Educators):** Create quiz notifications for upcoming assessments.
+6. **Notifications (Students):** Receive notifications for scheduled quizzes.
+
 
 For more details, please visit https://github.com/Indranisarker/EducationQuizApp_frontend.git
