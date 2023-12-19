@@ -22,4 +22,4 @@ The app offers two enrollment options: one for educators and another for student
 3. **Quiz Attempt (Students):** Attempt quizzes to test knowledge and skills.
 4. **Review Results:** Access quiz results and feedback for self-assessment and improvement.
 
-For more details, please visit 
+For more details, please visit https://github.com/Indranisarker/EducationQuizApp_frontend.git
